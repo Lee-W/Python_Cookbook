@@ -53,6 +53,8 @@ My note for [Python Cookbook 3e](http://shop.oreilly.com/product/0636920027072.d
     - 9.4 Defining a Decorator That Takes Arguments
     - 9.6 Defining a Decorator That Takes an Optional Argument
     - 9.10 Applying Decorators to Class and Static Methods
+    - 9.11 Writing Decorators That Add Arguments to Wrapped Functions
+    - 9.13 Using a Metaclass to Control Instance Creation
     
 
 # AUTHORS
