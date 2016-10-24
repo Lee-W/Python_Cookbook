@@ -35,7 +35,7 @@ My note for [Python Cookbook 3e](http://shop.oreilly.com/product/0636920027072.d
 - Ch7 - Functions
     - 7.8 Making an N-argument Callable Work As a Callable with Fewer Arguments
     - 7.9 Replacing Single Method Classes with Functions
-    - 7.10 Carring Extra State with Callback Functions
+    - 7.10 Carrying Extra State with Callback Functions
 - Ch8 - Classes and Objects
     - 8.1 Changing the String Representation of Instances
     - 8.5 Encapsulating Names in a Class
@@ -44,9 +44,9 @@ My note for [Python Cookbook 3e](http://shop.oreilly.com/product/0636920027072.d
     - 8.9 Creating a New Kind of Class or Instance Attribute
     - 8.10 Using Lazily Computed Properties
     - 8.16 Defining More Than One Constructor in a Class
-    - 8.18 Extending Classes with Mixinxs
+    - 8.18 Extending Classes with Mixins
     - 8.20 Calling a method on an Object Given the Name As a String
-    - 8.24 Making Classes Support Comparision Operations
+    - 8.24 Making Classes Support Comparison Operations
     - 8.25 Creating Cached Instances
 - Ch9 - Metaprogramming
     - 9.1 Putting a Wrapper Around a Function
@@ -55,7 +55,8 @@ My note for [Python Cookbook 3e](http://shop.oreilly.com/product/0636920027072.d
     - 9.10 Applying Decorators to Class and Static Methods
     - 9.11 Writing Decorators That Add Arguments to Wrapped Functions
     - 9.13 Using a Metaclass to Control Instance Creation
-    
+    - 9.21 Avoiding Repetitive Property Methods
+    - 9.22 Defining Contect managers the Easy Way
 
 # AUTHORS
 [Lee-W](https://github.com/Lee-W/)
