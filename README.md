@@ -57,6 +57,10 @@ My note for [Python Cookbook 3e](http://shop.oreilly.com/product/0636920027072.d
     - 9.13 Using a Metaclass to Control Instance Creation
     - 9.21 Avoiding Repetitive Property Methods
     - 9.22 Defining Contect managers the Easy Way
+- Ch14 - Testing, Debugging, and Exceptions
+    - 14.12 Debugging Basic Program Crashes
+    - 14.13 Profiling and Timing Your Program
+    - 14.14 Making Your Programs Run Faster
 
 # AUTHORS
 [Lee-W](https://github.com/Lee-W/)
