@@ -57,6 +57,15 @@ My note for [Python Cookbook 3e](http://shop.oreilly.com/product/0636920027072.d
     - 9.13 Using a Metaclass to Control Instance Creation
     - 9.21 Avoiding Repetitive Property Methods
     - 9.22 Defining Contect managers the Easy Way
+- Ch10 - Modules and Packages
+    - 10.4 Splitting a Module into Multiple Files
+    - 10.6 Reloading Modules
+    - 10.8 Reading Datafiles Within a Package
+- Ch12 - Concurrency
+    - 12.1 Starting and Stopping Threads
+    - 12.4 Locking Critical Sections
+    - 12.8 Performing Simple Parallel Programing
+    - 12.9 Dealing with the GIL (and How to Stop Worring About it)
 - Ch14 - Testing, Debugging, and Exceptions
     - 14.12 Debugging Basic Program Crashes
     - 14.13 Profiling and Timing Your Program
